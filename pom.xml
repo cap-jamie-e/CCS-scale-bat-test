@@ -33,7 +33,7 @@
 		<timestamp>${maven.build.timestamp}</timestamp>
 		<maven.build.timestamp.format>yyyy-MM-dd-HH_mm</maven.build.timestamp.format>
 		<sonar.maven.version>3.6.0.1398</sonar.maven.version>
-		<aws-java-sdk-s3>1.11.852</aws-java-sdk-s3>
+		<aws-java-sdk-s3>1.12.261</aws-java-sdk-s3>
 		<postgresql.driver.version>42.2.18</postgresql.driver.version>
 	</properties>
 	
